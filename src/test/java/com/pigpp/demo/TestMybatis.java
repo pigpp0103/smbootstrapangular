@@ -29,7 +29,7 @@ public class TestMybatis {
 	// }
 	@Test
 	public void test1() {
-		User user = userService.getUserById(1);
+//		User user = userService.getUserById(1);
 		// System.out.println(user.getUserName());
 		// logger.info("鍊硷細"+user.getUserName());
 	}
